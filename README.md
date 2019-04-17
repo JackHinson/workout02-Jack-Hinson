@@ -1,1 +1,3 @@
 # workout02-Jack-Hinson
+
+The purpose of this assignment is to learn how to create and utilize shiny apps in r. We used functions created in prior homeworks that measure the payouts of various investments given different levels of contributions and interest rates to hone our shiny app skills. By changing the inputs on sliders, one can see how that affects future money made through a visual representation. The graph compares how much money will make based on if they invest using no future contributions, annuities, or growing annuities. Specific differences in the balances over the years can be seen in the data table below it.
